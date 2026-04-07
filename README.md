@@ -12,7 +12,7 @@
 
 ## 🧠 Executive Summary
 
-Technology leader with **14+ years of hands-on experience** across **software engineering, cloud infrastructure, DevOps, security, and data platforms**.
+Technology leader with **16+ years of hands-on experience** across **software engineering, cloud infrastructure, DevOps, security, and data platforms**.
 
 I specialize in **building and scaling mission-critical systems** in **fintech, digital advertising, e-commerce, and regulated environments**, working with **cross-border teams across UAE, US, and EU**.
 
