@@ -16,7 +16,7 @@ Dubai, United Arab Emirates · [suryaelite.com](https://suryaelite.com)
 
 Technology leader with **15+ years of hands-on experience** across **software engineering, cloud infrastructure, DevOps, security, and data platforms**.
 
-I specialize in **building and scaling mission-critical systems** in **fintech, digital advertising, e-commerce, and regulated environments**, working with **cross-border teams across UAE, US, and EU**.
+I specialize in **building and scaling mission-critical systems** in **fintech, digital advertising, e-commerce, and regulated environments**, working with **cross-border teams across the UAE, India, and the US**.
 
 My work consistently focuses on **reliability, security, cost optimization, and operational clarity**.
 
@@ -51,7 +51,8 @@ My work consistently focuses on **reliability, security, cost optimization, and 
 ## 🏢 Career Highlights
 
 - Vice President - Technology at **The Lending Tree, MVP Real Estate & Next Reality** (Dubai, UAE)
-- Former **Head of IT & Security**, **Lead DevOps Engineer**, and **Senior Data Engineer**
+- Senior Data Engineer / DevOps at **Ogilvy & Mather (neo@Ogilvy)** - one of the world's best-known advertising networks, part of WPP - working with the agency's **New York** office
+- Former **Head of IT & Security** and **Lead DevOps Engineer** in Dubai fintech and telecom
 - Designed and operated **PCI DSS-compliant cloud infrastructures**
 - Managed **50+ server AWS environments** and **40+ containerized microservices**
 - Strong background in **Big Data platforms (Cloudera ecosystem)** and **observability**
@@ -65,7 +66,7 @@ My work consistently focuses on **reliability, security, cost optimization, and 
 | ------ | ------------------ |
 | **Mortgage** | The Lending Tree. Proposal automation against live lender rates, and the broker workflow around it |
 | **Real Estate** | MVP Real Estate and Next Reality. Lead generation, CRM and web |
-| **Marketing / Ad Tech** | Google Ads, Meta and email in-house; ad verification and campaign analytics at Ogilvy |
+| **Marketing / Ad Tech** | Google Ads, Meta and email in-house; ad verification and campaign analytics at **Ogilvy & Mather**, the WPP network |
 | **Banking / Fintech** | DSSC Tech. Infrastructure under core banking platforms, four and a half years under PCI DSS |
 | **E-commerce** | Juvalia & You. Magento, catalogues, pricing, inventory and fulfilment |
 
@@ -147,7 +148,7 @@ My work consistently focuses on **reliability, security, cost optimization, and 
 
 - Architected and operated **PCI DSS-compliant AWS platforms** for regulated workloads
 - Led **40+ containerized microservices** across production environments
-- Built and scaled **Big Data platforms** using Cloudera (HDFS, Hive, HBase, Impala)
+- Built and scaled **Big Data platforms** using Cloudera (HDFS, Hive, HBase, Impala) behind campaign analytics at **Ogilvy**, at global agency scale
 - Designed monitoring and alerting for **large-scale, always-on systems**
 - Automated deployments, backups, validations, and incident workflows
 - Found a vulnerability in a **state police recruitment system** and disclosed it to the department rather than acting on it. Recognised by the department; covered in print and broadcast media
