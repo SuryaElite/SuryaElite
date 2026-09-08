@@ -74,7 +74,6 @@ My work consistently focuses on **reliability, security, cost optimization, and 
 ## 🛠 Technology Stack
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
