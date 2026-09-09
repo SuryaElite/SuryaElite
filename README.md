@@ -52,7 +52,7 @@ My work consistently focuses on **reliability, security, cost optimization, and 
 
 - Vice President - Technology at **The Lending Tree, MVP Real Estate & Next Reality** (Dubai, UAE)
 - Senior Data Engineer / DevOps at **Ogilvy & Mather (neo@Ogilvy)** - one of the world's best-known advertising networks, part of WPP - working with the agency's **New York** office
-- Former **Head of IT & Security** and **Lead DevOps Engineer** in Dubai fintech and telecom
+- Former **Head of DevOps & Security** and **Lead DevOps Engineer** in Dubai fintech and telecom
 - Designed and operated **PCI DSS-compliant cloud infrastructures**
 - Managed **50+ server AWS environments** and **40+ containerized microservices**
 - Strong background in **Big Data platforms (Cloudera ecosystem)** and **observability**
